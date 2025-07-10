@@ -11,4 +11,4 @@ Real-time DOM updates
 
 Styling and layout with CSS
 
-🔗 Live Demo: digital-clock-using-html-css-and-java-script-i3qrnz3cf.vercel.app
+🔗 Live Demo: https://digital-clock-using-html-css-and-ja.vercel.app/
