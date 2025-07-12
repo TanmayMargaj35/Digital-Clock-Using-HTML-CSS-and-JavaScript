@@ -1,14 +1,39 @@
-🕒 Digital Clock Using HTML, CSS, and JavaScript
-This project is a real-time digital clock built with HTML, CSS, and JavaScript. It uses JavaScript's Date object to fetch the current time and updates dynamically every second to display the hours, minutes, and seconds.
+# ⌚ Digital Clock
 
-The DOM manipulation techniques used in JavaScript provide a hands-on understanding of how to update content in real-time, while CSS styling enhances the clock's visual appearance for a sleek and modern interface.
+A minimal and elegant **Digital Clock Web App** created with **HTML, CSS, and JavaScript**. This was a part of my learning journey to understand how to work with time and intervals using JavaScript.
 
-This project is perfect for beginners looking to strengthen their grasp of:
+---
 
-JavaScript's Date and Time functions
+## 📝 Overview
 
-Real-time DOM updates
+The clock displays the **current system time** and updates every second using `setInterval()`. It's styled with a clean UI that works seamlessly on all screen sizes.
 
-Styling and layout with CSS
+---
 
-🔗 Live Demo: https://digital-clock-using-html-css-and-ja.vercel.app/
+## ⚙️ Features
+
+- Live system time display
+- Auto-updating every second
+- 24-hour format
+- Smooth and minimal UI
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📽️ Live Demo
+
+🔗 [View Clock Live](#)
+
+---
+
+## 👤 Connect with Me
+
+- 🔗 [GitHub](https://github.com/TanmayMargaj35)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-margaj-5598542bb)
